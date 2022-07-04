@@ -13,4 +13,4 @@ The pre-trained networks that we used are the following:
 - MobileNet
 - InceptionV3
 
-Finally, an esamble approach was used in order to increese the classification performances.
+Finally, an esamble approach was used in order to increese the classification performances (exploiting genetic algorithm for best weights assignment).
